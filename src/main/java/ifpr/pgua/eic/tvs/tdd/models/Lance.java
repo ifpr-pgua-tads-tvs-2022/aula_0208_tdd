@@ -21,9 +21,5 @@ public class Lance {
     }
     public void setValor(double valor) {
         this.valor = valor;
-    }
-
-    
-
-    
+    } 
 }
